@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+
+form > label  {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+select {
+  background-color: #eee;
+  outline: none;
+  margin-bottom: 1rem;
+}
+ 
+option {
+  padding: .5rem;
+  font-size: .875rem;
+}
+
+input {
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
