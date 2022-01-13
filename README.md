@@ -1,11 +1,9 @@
 # Info:
-===
 index_day-month :
-00_12-01
+* 00_12-01
 
 
 # Structure
-===
 meeting/
   home-task.md
   lesson.md
