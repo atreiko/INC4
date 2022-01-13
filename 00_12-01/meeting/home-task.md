@@ -22,3 +22,5 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript
 Грамматика и типы
 Порядок выполнения и обработка ошибок
 Циклы и итерации
+
+
