@@ -6,7 +6,7 @@ https://github.com/atreiko/test1
 
 ---
 
-* second
+* second:
 https://github.com/atreiko/test2
 
 ---
