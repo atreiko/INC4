@@ -4,11 +4,11 @@ index_day-month :
 
 
 # Structure
-meeting/
+* meeting/
   home-task.md
   lesson.md
 
-homework/
+* homework/
   inference.md
   01/
     css/styles.css
