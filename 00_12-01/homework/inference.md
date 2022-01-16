@@ -96,6 +96,9 @@ git add . && git commit -m "new-commit" && git push origin your-branch
 * Как проверить какой репозиторий у вас? --> git remote -v.
 * Создать ветку                          --> git checkout -b your-new-awesome-branch
 
+---
+
+>Git rebase “повторно применяет коммиты поверх другой базовой ветки”, тогда как merge “объединяет две или более историй разработки”
 
 
 How to create and resolve a conflict in git
