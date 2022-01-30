@@ -499,3 +499,4 @@ console.group('length');
 console.log('string'.length); //* 6
 
 console.groupEnd();
+console.dir(String);
