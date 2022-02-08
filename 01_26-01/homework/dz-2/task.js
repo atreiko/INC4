@@ -8,7 +8,9 @@ const str = 'https://inc4.net/what-can-cedefi-bring-to-the-crypto-industry/';
 const domain = str.slice(8, 16)
 const path = str.slice(17, -1)
 
-const splitString = path.split('').map(symbol => {
+const splitString = path
+  .split('')
+  .map(symbol => {
   return symbol.replace('-', ' ')
 })
 
