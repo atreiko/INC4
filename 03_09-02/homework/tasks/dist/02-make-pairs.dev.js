@@ -19,10 +19,6 @@ var makePairs = function makePairs(object) {
 exports.makePairs = makePairs;
 var data = {
   a: 1,
-  b: 2,
-  c: {
-    d: 3,
-    e: 4
-  }
+  b: 2
 };
 console.log(makePairs(data));
