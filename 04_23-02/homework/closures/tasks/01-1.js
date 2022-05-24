@@ -1,9 +1,7 @@
 /**
- * 
  * @param {Number} number 
- * @returns {Number}
+ * @returns {Function}
  */
-
 function calcFunc(number) {
   return function() {
     return number * 1000

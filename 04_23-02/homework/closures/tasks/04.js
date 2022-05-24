@@ -1,9 +1,7 @@
 /**
- * 
  * @param {String} operator 
  * @returns {Number}
  */
-
 function makeLazy(operator) {
   return function inner(firstNumber, secondNumber) {
     return eval(
